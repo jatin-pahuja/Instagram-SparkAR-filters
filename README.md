@@ -4,4 +4,4 @@
  I will keep on adding new filters so be sure to checkout 
  or you can visit my Instagram profile [Here](https://www.instagram.com/farziphotographer/)
  My insta username - @farziphotographer
- ![screenshot](https://github.com/jatin-pahuja/SparkAR-lut-filters/blob/master/Screenshot_20200629-133656.jpg)
+ ![screenshot](https://github.com/jatin-pahuja/SparkAR-lut-filters/blob/master/Screenshot_20200629-133656.jpg)<!-- .element height="50%" width="50%" -->
