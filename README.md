@@ -4,4 +4,3 @@
  I will keep on adding new filters so be sure to checkout 
  or you can visit my Instagram profile [farziphotographer](https://www.instagram.com/farziphotographer/)
 
-<img src="Screenshot_20200629-133656.jpg" width="500" height="1000">
